@@ -60,3 +60,5 @@ var categoriaProdutos = produtos.filter(
     }
 );
 console.log(categoriaProdutos);
+
+
